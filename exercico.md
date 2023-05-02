@@ -1,6 +1,7 @@
 # Inicio
-- 1- O homem do barco deve analisa a situação pra tentar agir da maneira mais logica possivel pra não perder nenhum dos tres item.
-- 2- Ele deve levar da margem A Pra margem B a cabrar primeiro assim ele nao corre o risco da cabra comer o alfafa e nem do lobo comer a cabrar.
-- 3- deixando a cabrar na margem B volta para pegar o alfafa,assim a cabra e o lobo estaram em segurança,chegando na margem B do rio aonde ele deixou a cabra ele deve pegar a blusa dele e enrola o alfafa por segurança ele deve enterra o alfafa com o burago que tenha uma profudidade segura para a cabrar não comer o alfafa. 
-- 5- quando ele retornar e so buscar o lobo chagando na margem B é deseterrar o alfafa.
+- 1-A primeira travessia deve ser feita com a cabra, deixando-a do outro lado da margem.
+- 2- O homem, então, volta sozinho para a margem de origem. 
+- 3-Na segunda travessia, o homem escolhe o lobo para levar consigo, deixando-o na outra margem. Mas, desta vez, ele traz a cabra de volta consigo para a margem de origem.
+- 4-Na terceira travessia, o homem escolhe o maço de alfafa para levar consigo e o deixa junto ao lobo na margem de destino. 
+- 5-Na quarta e última travessia, o homem leva a cabra para a outra margem, finalizando o processo de transporte dos objetos com segurança.
 # finalizando
