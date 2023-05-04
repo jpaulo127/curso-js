@@ -51,9 +51,12 @@
 - var valor = 30000;
 - var prestacao = 750;
 
-- a-branco == “branco” = false
+- a-branco == “branco” = false 
+- 
 - b-branco == cinza = false
+- 
 - carro === branco = true
+- 
 - d-var cavalo = carro == “preto” ? “cinza” : “marron”; = "cinza"
 
 - e-Quantas prestações são necessárias para pagar o valor do carro com uma entrada
