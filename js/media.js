@@ -17,3 +17,5 @@ function aprovacao(notas) {
 
     return 'Media:_' + media + '_Resultado:' + condicao
 }
+
+
