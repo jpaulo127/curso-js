@@ -17,34 +17,21 @@
         <button onclick="calculo()">calcular</button>
         <div id="res"></div>
     </section>
-
-    <section>
-        <h1>Calcule seu finaciamento</h1>
-        <input type="text" placeholder="Digite o valor do carro" id="valor">
-        <input type="text" placeholder="Digite o valor da parcela" id="parcela">
-        <input type="text" placeholder="Digite o valor da entrada" id="entrada">
-        <button type="submit" onclick="calculoCarro()">calcular</button>
-        <div id="resultado"></div>
-    </section>
     
-    <section>
-        <h1>Velocidae do carro</h1>
-        <input type="text" placeholder="Digite o valor do carro" id="vel">
-     <button onclick="velocidadeCarro()">calcular</button>
-        <div id="resul"></div>
-    </section>
-
-    <section>
-        <h1>País</h1>
-        <input type="text" placeholder="Digite seu pais" id="br">
-        <button onclick="destino()">calcular</button>
-        <div id="pais"></div>
-    </section>
 
 
 
-  
- <script src="../curso-js/js/index.js"></script>
+   <script>
+    function calculo() {
+
+        let a = Number(document.getElementById("a").value);
+        let b = Number(document.getElementById("b").value);
+        let c = Number(document.getElementById("c").value);
+        let media = (a + b + c) / 3;
+
+        document.getElementById("res").innerHTML = "Resultado:" + media
+    }
+   </script>
 
 
 
